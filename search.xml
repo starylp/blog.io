@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/blog.io/2023/09/26/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
+      <url>/blog.io/2023/09/26/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog.io\assets\css\APlayer.min.css"><script src="\blog.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="gulp问题"><a href="#gulp问题" class="headerlink" title="gulp问题"></a>gulp问题</h1><p>** “server”: “hexo clean &amp;&amp; hexo generate &amp;&amp; gulp &amp;&amp; hexo server” gulp：html、js、css、img压缩但是本地图片丢失() **</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> gulp </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签外观演示</title>
+      <link href="/blog.io/2023/09/25/%E6%A0%87%E7%AD%BE%E5%A4%96%E8%A7%82/%E6%A0%87%E7%AD%BE%E6%BC%94%E7%A4%BA/"/>
+      <url>/blog.io/2023/09/25/%E6%A0%87%E7%AD%BE%E5%A4%96%E8%A7%82/%E6%A0%87%E7%AD%BE%E6%BC%94%E7%A4%BA/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog.io\assets\css\APlayer.min.css"><script src="\blog.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note icon-padding simple"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon-padding simple"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon-padding simple"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon-padding simple"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon-padding simple"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><div class="note icon-padding modern"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon-padding modern"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon-padding modern"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon-padding modern"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><div class="note icon-padding disabled"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue icon-padding disabled"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon-padding disabled"><i class="note-icon fas fa-car-crash"></i><p>小心開車 安全至上</p></div><div class="note red icon-padding disabled"><i class="note-icon fas fa-fan"></i><p>這是三片呢？還是四片？</p></div><div class="note orange icon-padding disabled"><i class="note-icon fas fa-battery-half"></i><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple icon-padding disabled"><i class="note-icon far fa-hand-scissors"></i><p>剪刀石頭布</p></div><div class="note green icon-padding disabled"><i class="note-icon fab fa-internet-explorer"></i><p>前端最討厭的瀏覽器</p></div><div class="note no-icon flat"><p>你是刷 Visa 還是 UnionPay</p></div><div class="note blue no-icon flat"><p>2021年快到了….</p></div><div class="note pink no-icon flat"><p>小心開車 安全至上</p></div><div class="note red no-icon flat"><p>這是三片呢？還是四片？</p></div><div class="note orange no-icon flat"><p>你是刷 Visa 還是 UnionPay</p></div><div class="note purple no-icon flat"><p>剪刀石頭布</p></div><div class="note green no-icon flat"><p>前端最討厭的瀏覽器</p></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片演示</title>
+      <link href="/blog.io/2023/09/25/%E5%9B%BE%E7%89%87%E6%BC%94%E7%A4%BA/%E4%BA%94%E9%A2%98/"/>
+      <url>/blog.io/2023/09/25/%E5%9B%BE%E7%89%87%E6%BC%94%E7%A4%BA/%E4%BA%94%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog.io\assets\css\APlayer.min.css"><script src="\blog.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://img1.baidu.com/it/u=728770921,440254594&fm=253&fmt=auto&app=138&f=JPG?w=500&h=625" alt="这是一个描述"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>代码演示</title>
+      <link href="/blog.io/2023/09/25/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
+      <url>/blog.io/2023/09/25/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog.io\assets\css\APlayer.min.css"><script src="\blog.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br></pre></td></tr></table></figure><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><p>我打了一个冷颤，好过瘾啊</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>迪迦奥特曼</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>塔尔塔罗斯</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+            <tag> 主题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/blog.io/2023/09/25/hello-world/"/>
+      <url>/blog.io/2023/09/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog.io\assets\css\APlayer.min.css"><script src="\blog.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><p>我打了一个冷颤，好过瘾啊</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>迪迦奥特曼</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>塔尔塔罗斯</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+            <tag> 主题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
